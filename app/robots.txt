@@ -2,4 +2,3 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://bokep-adik.pages.dev/sitemap.xml
